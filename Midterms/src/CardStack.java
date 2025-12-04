@@ -3,7 +3,7 @@ import java.util.LinkedList;
 
 public class CardStack {
 
-    // The LinkedList provides all the stack functionality we need.
+    
     private LinkedList<Card> stack;
 
     public CardStack() {
