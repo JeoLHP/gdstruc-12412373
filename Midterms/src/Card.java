@@ -19,7 +19,7 @@ public class Card {
 
     @Override
     public String toString() {
-        // print cards as "ACE of SPADES", "TEN of HEARTS", etc.
+       
         return rank + " of " + suit;
     }
 }
